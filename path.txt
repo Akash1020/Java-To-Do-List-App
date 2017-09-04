@@ -1,0 +1,4 @@
+--Path file--
+
+export CLASSPATH=$CLASSPATH:/"--Path to javax.mail.jar--"/javax.mail.jar:.
+
